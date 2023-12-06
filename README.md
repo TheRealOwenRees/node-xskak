@@ -1,6 +1,6 @@
 # `node-xskak` - Docker Image
 
-A minimal TexLive server with `xskak`, running in a Node v18 Alpine image. 
+A minimal TexLive server with `xskak`, running in a Node v20 Alpine image. 
 To be used as part of a multi-stage build in a Node application, where `xskak` is a required part of a TexLive server.
 
 ## Example Usage
